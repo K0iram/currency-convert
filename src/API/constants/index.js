@@ -1,0 +1,1 @@
+export const CurrencyUrl = `https://api.exchangeratesapi.io/latest`
